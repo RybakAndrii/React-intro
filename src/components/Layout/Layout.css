@@ -1,0 +1,19 @@
+.layout {
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content {
+  display: flex;
+  padding: 20px;
+}
+
+.main-content .blog {
+  margin-right: 20px;
+}
+
+.main-content .news {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
