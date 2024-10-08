@@ -1,0 +1,17 @@
+.news {
+  flex: 1;
+  padding: 20px;
+  width: 200px;
+  height: 429px;
+  background-color: #d9d9d9;
+  margin-left: 20px;
+}
+
+.news-item {
+  background-color: #bdcdf6;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  height: 80px;
+  width: 95%;
+}
